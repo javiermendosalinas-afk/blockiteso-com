@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blockiteso.com/sitemap.xml
