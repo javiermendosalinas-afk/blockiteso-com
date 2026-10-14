@@ -1,0 +1,83 @@
+{
+ "dominio": "blockiteso.com",
+ "marca": "The Block · ITESO",
+ "nombre": "Departamento en The Block, junto al ITESO",
+ "clave": "EB-WG7125",
+ "ficha": "https://www.aciertamax.com/property/iteso-amplio-departamento-nuevo-vista-panoramica-roof-garden-ubicacion-premium",
+ "titulo": "Departamento nuevo en renta junto al ITESO · The Block · roof garden · $18,000",
+ "desc_meta": "Departamento nuevo de 65 m² en The Block, a unos pasos del ITESO: 1 recámara, 2 baños, vista panorámica y roof garden. Renta $18,000 al mes.",
+ "etiqueta": "Nuevo · A pasos del ITESO",
+ "h1": "Tu departamento a pasos del ITESO, con vista y roof garden",
+ "sub": "65 m² nuevos, con 1 recámara y 2 baños, para estudiar, trabajar o empezar tu vida independiente sin perder tiempo en el tráfico.",
+ "renta": 18000,
+ "rec": 1,
+ "m2": 65,
+ "lat": 20.61044,
+ "lon": -103.41854,
+ "zona": "El Mante, Tlaquepaque",
+ "colores": {
+  "fondo": "#14213D",
+  "acento": "#F28C28",
+  "claro": "#F6F7FA"
+ },
+ "fuente_titulo": "Space+Grotesk:wght@500",
+ "familia_titulo": "Space Grotesk",
+ "datos": [
+  [
+   "65 m²",
+   "nuevos"
+  ],
+  [
+   "1 recámara",
+   "amplia"
+  ],
+  [
+   "2 baños",
+   "completos"
+  ],
+  [
+   "0.4 km",
+   "del ITESO, en línea recta"
+  ]
+ ],
+ "h2": "Más tiempo para lo que importa",
+ "historia": "Imagina salir de clase o de la oficina y estar en casa en minutos. En The Block vives a unos pasos del ITESO, en un departamento nuevo con vista panorámica y un roof garden para estudiar al aire libre, recibir a tus amigos o simplemente ver el atardecer. Ideal para estudiantes de posgrado, profesores, ejecutivos o para papás que quieren a sus hijos cerca y seguros.",
+ "incluye": [
+  "Departamento nuevo de 65 m²",
+  "1 recámara y 2 baños",
+  "Vista panorámica",
+  "Roof garden",
+  "A unos 0.4 km del ITESO, en línea recta"
+ ],
+ "h2_ubic": "Junto al ITESO, en el sur de la ciudad",
+ "ubic": "En El Mante, Tlaquepaque, junto a Periférico Sur, con universidades, comercios y servicios a tu alrededor.",
+ "cerca": [
+  "ITESO, a unos 0.4 km en línea recta",
+  "Periférico Sur",
+  "Comercios y servicios de la zona"
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta la renta?",
+   "$18,000 al mes. Requisitos, depósito y condiciones se confirman por escrito con tu asesor."
+  ],
+  [
+   "¿Qué tan cerca está del ITESO?",
+   "A unos 0.4 km en línea recta: puedes llegar caminando."
+  ],
+  [
+   "¿Cuántas recámaras y baños tiene?",
+   "Una recámara y dos baños, en 65 m²."
+  ],
+  [
+   "¿Es para estudiantes?",
+   "Es ideal para estudiantes, profesores y profesionistas; si eres estudiante, podemos orientarte sobre el aval o la garantía que pide el contrato."
+  ],
+  [
+   "¿Tiene áreas comunes?",
+   "Tiene roof garden con vista panorámica."
+  ]
+ ],
+ "cierre": "Agenda tu visita y conócelo hoy",
+ "wa": "ITESO · Vengo de blockiteso.com y quiero agendar una visita al departamento de The Block (EB-WG7125)"
+}
